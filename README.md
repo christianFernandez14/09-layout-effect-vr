@@ -7,3 +7,5 @@ TRABAJANDO CON Los Hooks useEffect y useLayoutEffect
 
   Por lo tanto se recomienda usar siempre usar antes el useEffect antes que el useLayoutEffect
 
+  En resumen el useLayoutEffect, se aplicaria solo si presenta algun tipo de retrasos el renderizado de algo, ahi colocaria todo lo que tu requieres para que se pueda aplicar.
+
